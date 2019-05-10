@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
+a: `.forEach` calls provided function once per array element and doesn't return anything, while `.map` does the same, but returns a new array.
+
 2. What is the difference between a function and a method?
+
+a: Basically a method is a function which is a property of an object. In other words, methods operate on objects, while functions can do their thing on their own.
 
 3. What is closure?
 
+a: Feature in JavaScript when an inner function can access the outer function's variables.
+
 4. Describe the four rules of the 'this' keyword.
 
+a: Window binding, Implicit binding, Explicit binding & New binding.
+
 5. Why do we need super() in an extended class?
+
+a: It is used to call methods of the parent class.
 
 ## Project Set up
 
